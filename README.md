@@ -1,4 +1,4 @@
-# Nkem Nweke Linux-Summative Execution Instruction
+## Nkem Vincent Nweke Linux-Summative Execution Instruction
 
 # Submission Reminder Application
 
@@ -10,8 +10,6 @@ Welcome to the Submission Reminder Application! This tool is designed to help st
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
 - [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Prerequisites
 
